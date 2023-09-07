@@ -21,7 +21,7 @@ export default function Home({ allPostData }) {
 					A brazilian black male, 22yo, cancerian and a <strong>{`<HumanCoder/>`}</strong>.
 				</p>
 				<p>
-					I'm a anime, basketball, coffe, programming and music lover.
+					I'm a anime, basketball, coffee, programming and music lover.
 				</p>
 				<br/>
 				<p>
